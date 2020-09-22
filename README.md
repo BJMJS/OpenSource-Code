@@ -1,6 +1,6 @@
 
 <h1>OpenSource-Code</h1>
-<h2>the opensource code of BJMJS-STUDIO</h2>
+<h2>the opensource code of EvanStudio</h2>
 
 <h1>Poster</h1>
 <h4>AI Change the World</h4>
